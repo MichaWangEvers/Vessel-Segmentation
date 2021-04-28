@@ -20,7 +20,7 @@
 
    -- Image Processing Toolbox 
    
-   -- Wavelet Toolbox 
+   -- Wavelet Toolbox (optional)
 
 
 -------------------------------------------------------------------
@@ -32,7 +32,7 @@ Add selected Folders and Subfolders to Path
 
    -- Select '0' or '1' to remove moving artifacts (requires Wavelet Toolbox) 
    
-   -- Run the script and select samples images (Subject1_Baseline.tiff, Subject1_BReactiveHyperemia.tiff) 
+   -- Run the script and select samples images (Subject1_Baseline.tiff, Subject1_ReactiveHyperemia.tiff) 
    
    -- Images need to be the same size if more than one image is selected
    
