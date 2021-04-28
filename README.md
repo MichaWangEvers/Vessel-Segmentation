@@ -17,7 +17,9 @@
 -------------------------------------------------------------------
 
 *) Matlab v.7.1 or later with installed:
+
    -- Image Processing Toolbox 
+   
    -- Wavelet Toolbox 
 
 
@@ -28,11 +30,16 @@ Add selected Folders and Subfolders to Path
 
 *) Open Main.m
    -- Select '0' or '1' to remove moving artifacts (requires Wavelet Toolbox) 
+   
    -- Run the script and select samples images (Subject1_Baseline.tiff, Subject1_BReactiveHyperemia.tiff) 
+   
    -- Images need to be the same size if more than one image is selected
+   
    -- Initial image might take a while to process due to graph cutting procedure
+   
    -- Results are saved to 'Output' folder
 
 *) Open Parameters.m
+
    -- To improve vessel segmentation change any of the parameters that have the comment '%change'
 
