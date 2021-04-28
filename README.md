@@ -29,6 +29,7 @@
 Add selected Folders and Subfolders to Path
 
 *) Open Main.m
+
    -- Select '0' or '1' to remove moving artifacts (requires Wavelet Toolbox) 
    
    -- Run the script and select samples images (Subject1_Baseline.tiff, Subject1_BReactiveHyperemia.tiff) 
